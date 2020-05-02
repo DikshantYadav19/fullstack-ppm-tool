@@ -54,7 +54,6 @@ class AddProject extends Component {
 
         return (
             <div>
-
                 <div className="project">
                     <div className="container">
                         <div className="row">
